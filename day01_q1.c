@@ -1,4 +1,3 @@
-// Day 1 - Q1: User Inputs, Operations & Output
 // Problem: Take two integers as input, perform basic operations, and display the results.
 
 #include <stdio.h>
@@ -20,3 +19,4 @@ int main() {
 
     return 0;
 }
+
