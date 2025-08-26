@@ -1,4 +1,4 @@
-//Calculate Simple Interest
+//Calculate Simple Interest (I can't think how to calculate compound interest)
 
 #include <stdio.h>
 
@@ -20,3 +20,4 @@ int main() {
 
     return 0;
 }
+
