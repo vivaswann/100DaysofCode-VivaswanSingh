@@ -16,8 +16,9 @@ int main() {
 
     si = (p * r * t) / 100;
 
-    printf("Simple Interest = %.2f\n", si);
+    printf("Simple Interest = %.f\n", si);
 
     return 0;
 }
+
 
