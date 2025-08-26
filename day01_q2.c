@@ -1,4 +1,3 @@
-// Program: Basic Arithmetic Operations
 // Problem: Input two numbers and display their sum, difference, product, and division.
 
 #include <stdio.h>
@@ -25,3 +24,4 @@ int main()
 
     return 0;
 }
+
