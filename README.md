@@ -5,4 +5,4 @@ My 100 days of C programming challenge solutions ✨
 
 
 P.S. Teenw4ites is me only
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/00599C?style=for-the-badge&logo=c&logoColor=white)
