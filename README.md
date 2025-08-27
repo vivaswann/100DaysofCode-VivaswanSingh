@@ -7,7 +7,7 @@
   <a href="https://github.com/vivaswann/100DaysofCode-VivaswanSingh/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/vivaswann/100DaysofCode-VivaswanSingh?style=for-the-badge"></a>
   <a href="https://github.com/vivaswann/100DaysofCode-VivaswanSingh/issues"><img alt="Issues" src="https://img.shields.io/github/issues/vivaswann/100DaysofCode-VivaswanSingh?style=for-the-badge"></a>
   <img alt="Language" src="https://img.shields.io/badge/C-100%25-0A7BC1?style=for-the-badge">
-  <img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/vivaswann/100DaysofCode-VivaswanSingh?style=for-the-badge">
+  <a href="https://github.com/vivaswann?tab=projects"><img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/vivaswann/100DaysofCode-VivaswanSingh?style=for-the-badge">
   <img alt="License" src="https://img.shields.io/github/license/vivaswann/100DaysofCode-VivaswanSingh?style=for-the-badge">
 </p>
 
