@@ -5,4 +5,6 @@ My 100 days of C programming challenge solutions ✨
 
 
 P.S. Teenw4ites is me only
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=blue)
+![Vivaswan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaswann&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vivaswann&theme=radical)
+
