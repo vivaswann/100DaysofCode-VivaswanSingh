@@ -17,5 +17,3 @@ Daily C practice—two problems a day when possible. Clean, simple, strictly typ
 
 **Progress**
 [█████-----] 8% (8/100)
-
-> P.S. “Teenw4ites” = me (alt).
