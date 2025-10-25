@@ -16,4 +16,4 @@ Daily C practice—two problems a day when possible. Clean, simple, strictly typ
 **Current streak:** `#100DaysOfCode` • **Road to Day 100** 🚀
 
 **Progress**
-[████████-----] 66% (66/100)
+[████████-----] 67% (67/100)
