@@ -12,7 +12,7 @@
 </p>
 
 ## 🔥 100 Days of C
-Daily C practice—two problems a day when possible. Clean, simple, strictly typed.  
+Daily C practice—two problems a day when possible. Clean, simple, strictly typed  
 **Current streak:** `#100DaysOfCode` • **Road to Day 100** 🚀
 
 **Progress**
